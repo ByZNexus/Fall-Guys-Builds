@@ -3,7 +3,7 @@ You can download any builds provided here ! Use FARTLoader to play them.
 
 Made by @wallonia on Discord, known in the OG Fortnite Community.
 
-If there's any legal and laws thingy that needs to be saved to me (so i dont get sued) please send it to my discord dms.
+If there's any legal and laws thingy that needs to be sent to me (so i dont get sued) please send it to my discord dms.
 
 Also if you are wondering if there's any older builds than April 27th, there is not, or hasn't been leaked yet.
 
