@@ -15,3 +15,11 @@ Also if you are wondering if there's any older builds than April 27th, there is 
 April 27th 2020 : https://drive.google.com/file/d/1iDW37cVxTzMgfheCQf9POmrIoJJkobOw/view
 
 April 30th 2020 : https://drive.google.com/file/d/1SGmMdwVgGCPFvrcDCdZqRM51qp-0zdG-/view
+
+July 28th 2020 : https://drive.google.com/file/d/1kqMWiSro3_l6VApduOhnMNAwaFqmQkPy/view?usp=sharing
+
+July 31st 2020 : https://drive.google.com/file/d/1v109qUxLTGKToR9GQqQOUhyZBMuxuRDx/view?usp=sharing
+
+## Legacy Season 1
+
+
