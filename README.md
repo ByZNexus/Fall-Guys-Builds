@@ -7,6 +7,7 @@ If there's any legal and laws thingy that needs to be sent to me (so i dont get 
 
 Also if you are wondering if there's any older builds than April 27th, there is not, or hasn't been leaked yet.
 
+Released Builds (after 4th August 2020) are only obtainable if you bought the game on Steam
 
 # Builds
 
