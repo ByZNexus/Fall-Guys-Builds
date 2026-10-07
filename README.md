@@ -1,7 +1,7 @@
 # Fall Guys Builds
 You can download any builds provided here ! Use FARTLoader to play them.
 
-Made by @wallonia on Discord, known in the OG Fortnite Community.
+Made by @wallonia on Discord
 
 If there's any legal and laws thingy that needs to be sent to me (so i dont get sued) please send it to my discord dms.
 
