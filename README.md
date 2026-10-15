@@ -34,9 +34,9 @@ You can download any builds provided here!
 | --- | --- | --- | --- | --- |
 | **v1.00** | 4th August 2020 | Unity 2019.3.14f1 | Official Launch (25 Original Rounds) | [Click Me](https://mega.nz/folder/VARniB6b#oIlR_tULtXm-R42DLHvXOw) |
 | **v1.01** | 7th August 2020 | Unity 2019.3.14f1 | Post-launch server stability hotfix & minor tweaks | [Click Me](https://mega.nz/folder/Vdg1AJJa#WMtyo0fbZHCU8ODwwpHcOQ) |
-| **v1.04** | 13th August 2020 | Unity 2019.3.14f1 | Re-added Jump Showdown final round & bug fixes | Click Me |
-| **v1.05** | 24th August 2020 | Unity 2019.3.14f1 | Team size balance adjustments & physics tweaks | Click Me |
-| **v1.07** | 15th September 2020 | Unity 2019.3.14f1 | Mid-Season Update: Big Yeetus, Easy Anti-Cheat & level variations | Click Me |
+| **v1.04** | 13th August 2020 | Unity 2019.3.14f1 | Re-added Jump Showdown final round & bug fixes | [Click Me](https://mega.nz/folder/RcAyUaJQ#DgfxVoNO9pPnryv7WLeWCQ) |
+| **v1.05** | 24th August 2020 | Unity 2019.3.14f1 | Team size balance adjustments & physics tweaks | [Click Me](https://mega.nz/folder/MMIWgDLa#u7rUbz_X-NHjfoqYgCxsGw) |
+| **v1.07** | 15th September 2020 | Unity 2019.3.14f1 | Mid-Season Update: Big Yeetus, Easy Anti-Cheat & level variations | [Click Me](https://mega.nz/folder/xYQAiTRK#yBPuRIa2aBwPotPr12G4Ng) |
 
 ---
 
