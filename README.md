@@ -45,8 +45,8 @@ You can download any builds provided here!
 | Build | Date | Engine | Notes / Content | Download links |
 | --- | --- | --- | --- | --- |
 | **v1.08 / v1.09** | 8th October 2020 | Unity 2019.3.14f1 | Season 2 Launch: Knight Fever, Wall Guys, Hoopsie Legends, Egg Siege & medieval customization | [Click Me](https://mega.nz/folder/i8YBGATB#BiAk8Br032HwyBiv7UN5gQ) |
-| **v1.10** | 19th October 2020 | Unity 2019.3.14f1 | Crown rewards update, Slime Climb stability fixes & bug fixes | Click Me |
-| **v1.11** | 10th November 2020 | Unity 2019.3.14f1 | Mid-Season 2 Update (FAN-TASTIC): Added Big Fans round, Lil Yeetus, Medieval Mix-Up & level variations | Click Me |
+| **v1.10** | 19th October 2020 | Unity 2019.3.14f1 | Crown rewards update, Slime Climb stability fixes & bug fixes | [Click Me](https://mega.nz/folder/OxwGAQ5a#Mclv3cj7XkE1eFkzFw4lQw) |
+| **v1.11** | 10th November 2020 | Unity 2019.3.14f1 | Mid-Season 2 Update (FAN-TASTIC): Added Big Fans round, Lil Yeetus, Medieval Mix-Up & level variations | [Click Me](https://mega.nz/folder/L44QwDIC#9ydKgSbbvdWn8FUFGB32zQ) |
 | **v1.11b** | 30th November 2020 | Unity 2019.3.14f1 | Hex-A-Gone jump inputs fix, Fall Mountain physics & stability patch | Click Me |
 
 ---
