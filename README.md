@@ -77,10 +77,10 @@ You can download any builds provided here!
 | Build | Date | Engine | Notes / Content | Download links |
 | --- | --- | --- | --- | --- |
 | **v5.0** | 20th July 2021 | Unity 2020.3.18f1 | Season 5 Launch: Jungle theme, 6 new rounds (Treetop Tumble, Stompin' Ground, Lost Temple, etc.) & Duos/Trios Modes | Click Me |
-| **v5.0.1** | 5th August 2021 | Unity 2020.3.18f1 | Jump Showdown & Lost Temple stability hotfix | [Click Me](https://mega.nz/file/Dulg1JwD#aSmPNzjste3-dvKFpFsGBJ5E3SHwnyGsCS2iVuz1Yr8) |
+| **v5.0.1** | 5th August 2021 | Unity 2020.3.18f1 | Jump Showdown & Lost Temple stability hotfix | [Click Me](https://mega.nz/file/buxhwRYT#DNoB6oDYl8jRe7fE4fumQnM7CbAArk-VSMoEmT1wcs4) |
 | **v5.1** | 31st August 2021 | Unity 2020.3.18f1 | Sum Fruit round added, Squads Mode fixes & stability patch | Click Me |
 | **v5.2** | 5th October 2021 | Unity 2020.3.18f1 | Mid-Season 5 Update: Added Fall Mountain & Lost Temple variants, custom lobby improvements | Click Me |
-| **v5.2.1** | 20th October 2021 | Unity 2020.3.18f1 | Physics tweaks & Halloween event preparation | [Click Me](https://mega.nz/file/Dulg1JwD#aSmPNzjste3-dvKFpFsGBJ5E3SHwnyGsCS2iVuz1Yr8) |
+| **v5.2.1** | 20th October 2021 | Unity 2020.3.18f1 | Physics tweaks & Halloween event preparation | [Click Me](https://mega.nz/file/DuIg1JwD#aSmPNzjstE3-dVkFpFsGBJ5E3SHwnyGsCS2iVUz1Yr8) |
 | **v5.3** | 30th November 2021 | Unity 2020.3.18f1 | Final Season 5 build & transition update | Click Me |
 
 ### ❤️ Thank You!
