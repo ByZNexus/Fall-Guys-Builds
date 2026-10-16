@@ -55,9 +55,9 @@ You can download any builds provided here!
 
 | Build | Date | Engine | Notes / Content | Download links |
 | --- | --- | --- | --- | --- |
-| **v1.12 / v3.0** | 15th December 2020 | Unity 2019.3.14f1 | Season 3 Launch: Winter theme, 7 new rounds (Ski Fall, Tundra Run, Freezy Peak, Thin Ice, etc.) & Crown Ranks | Click Me |
-| **v3.0.1** | 17th December 2020 | Unity 2019.3.14f1 | Post-launch Hotfix: Server stability fixes & minor level tweaks | Click Me |
-| **v3.0.2** | 11th January 2021 | Unity 2019.3.14f1 | Winter rounds balance tweaks, anti-cheat updates & ragdoll physics adjustments | Click Me |
+| **v1.12 / v3.0** | 15th December 2020 | Unity 2019.3.14f1 | Season 3 Launch: Winter theme, 7 new rounds (Ski Fall, Tundra Run, Freezy Peak, Thin Ice, etc.) & Crown Ranks | [Click Me](https://mega.nz/folder/QW0lBaiD#SLPqnZUXBhy2omZhX77b3w) |
+| **v3.0.1** | 17th December 2020 | Unity 2019.3.14f1 | Post-launch Hotfix: Server stability fixes & minor level tweaks | [Click Me](https://mega.nz/folder/tblDWLSS#LfNMt1VmLDBf13z3TQfnoQ) |
+| **v3.0.2** | 11th January 2021 | Unity 2019.3.14f1 | Winter rounds balance tweaks, anti-cheat updates & ragdoll physics adjustments | [Click Me](https://mega.nz/folder/4GNmgDzb#IMdqXVoiiQozb9CHw1TaWQ) |
 | **v1.14 / v3.5** | 2nd February 2021 | Unity 2019.3.14f1 | Mid-Season Update "Stop With The Snow": Added Snowball Survival round, 50+ level variations & Fall Feed | Click Me |
 
 ---
