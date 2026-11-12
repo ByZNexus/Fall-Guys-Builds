@@ -2,7 +2,7 @@
 
 You can download any builds provided here!
 
-* **Created by**: [ByZNexus](https://github.com/ByZNexus) (`@wallonia` on Discord)
+* **Created by**: [ByZNexus](https://github.com/ByZNexus) (`@billoutethecat` on Discord)
 * **Contributors**: 
   * [burlone0](https://github.com/burlone0) (`@burlone413` - for providing Season 1 and Season 3 builds)
   * [theblums](https://github.com/theblums) (`@theblums` - for providing Season 2 builds)
