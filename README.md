@@ -2,12 +2,12 @@
 
 You can download any builds provided here!
 
-* **Created by**: [ByZNexus](https://github.com/ByZNexus) (`@billoutethecat` on Discord)
+* **Created by**: [ByZNs](https://github.com/ByZNexus) (`@billoutethecat` on Discord)
 * **Contributors**: 
   * [burlone0](https://github.com/burlone0) (`@burlone413` - for providing Season 1 and Season 3 builds)
   * [theblums](https://github.com/theblums) (`@theblums` - for providing Season 2 builds)
   * [SamuelMKYT](https://github.com/SamuelMKYT) (`@ytsamuelmk` - for providing Season 5 builds)
-* **Legal Notice**: If there's any legal or copyright inquiry that needs to be sent to me (to prevent legal issues), please contact me via Discord DMs.
+* **Legal Notice**: If there's any legal or copyright inquiry that needs to be sent to me (to prevent legal issues), please contact ByZNs via Discord DMs.
 * **Beta Availability**: Please note that there are currently no builds older than April 27th, 2020 (or they have not been leaked yet).
 * **Requirements**: Officially released builds (after August 4th, 2020) are only playable/obtainable if you own the game on Steam.
 
@@ -58,7 +58,7 @@ You can download any builds provided here!
 | **v1.12 / v3.0** | 15th December 2020 | Unity 2019.3.14f1 | Season 3 Launch: Winter theme, 7 new rounds (Ski Fall, Tundra Run, Freezy Peak, Thin Ice, etc.) & Crown Ranks | [Click Me](https://mega.nz/folder/QW0lBaiD#SLPqnZUXBhy2omZhX77b3w) |
 | **v3.0.1** | 17th December 2020 | Unity 2019.3.14f1 | Post-launch Hotfix: Server stability fixes & minor level tweaks | [Click Me](https://mega.nz/folder/tblDWLSS#LfNMt1VmLDBf13z3TQfnoQ) |
 | **v3.0.2** | 11th January 2021 | Unity 2019.3.14f1 | Winter rounds balance tweaks, anti-cheat updates & ragdoll physics adjustments | [Click Me](https://mega.nz/folder/4GNmgDzb#IMdqXVoiiQozb9CHw1TaWQ) |
-| **v1.14 / v3.5** | 2nd February 2021 | Unity 2019.3.14f1 | Mid-Season Update "Stop With The Snow": Added Snowball Survival round, 50+ level variations & Fall Feed | Click Me |
+| **v1.14 / v3.5** | 2nd February 2021 | Unity 2019.3.14f1 | Mid-Season Update "Stop With The Snow": Added Snowball Survival round, 50+ level variations & Fall Feed | [Click Me](https://mega.nz/file/6P40XTjS#8AwaUadirqyKkqUwyILTH66wYQE8dL-3tMEvcXskNHE) |
 
 ---
 
