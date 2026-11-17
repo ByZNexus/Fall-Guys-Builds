@@ -23,6 +23,10 @@ You can download any builds provided here!
 | --- | --- | --- | --- | --- |
 | **v0.1.0** | 27th April 2020 | Unity 2019.3.14f1 | Initial Closed Beta Build | [Click Me](https://drive.google.com/file/d/1iDW37cVxTzMgfheCQf9POmrIoJJkobOw/view) |
 | **v0.1.1** | 30th April 2020 | Unity 2019.3.14f1 | Closed Beta Update & Bug Fixes | [Click Me](https://drive.google.com/file/d/1SGmMdwVgGCPFvrcDCdZqRM51qp-0zdG-/view) |
+| **v0.1.2** | 13th May 2020 | Unity 2019.3.14f1 | Closed Beta #3 | [Click Me](https://mega.nz/file/GPhiSZpT#1YsBMWMLDCnDz_8sTXg7aDtGHXnYl_XpnQchDRgnLg4)
+| **v0.1.3** | 22nd May 2020 | Unity 2019.3.14f1 | Closed Beta #4 | [Click Me](https://mega.nz/file/iGJFzZzK#qwo0L_v889t8vtNiWZoECgDB_UX_gRQqJCsx5EtT_0E)
+| **v0.1.4** | 29th May 2020 | Unity 2019.3.14f1 | Closed Beta #5 | [Click Me](https://mega.nz/file/6GI3yTQD#4TECrd-2NmCcGylxLSR0CfrWgwqiG0X5MnuX_a8z53U)
+| **v0.1.7** | 17th July 2020 | Unity 2019.3.14f1 | Closed Beta #7 | [Click Me](https://mega.nz/file/eChliS6C#msrU6Xf6-EkHECSC3WNRfgsr5zvSv54I1dNuKbhUhVk)
 | **v0.2.0** | 28th July 2020 | Unity 2019.3.14f1 | Pre-Launch Playtest / Beta Build | [Click Me](https://drive.google.com/file/d/1kqMWiSro3_l6VApduOhnMNAwaFqmQkPy/view?usp=sharing) |
 | **v0.2.1** | 31st July 2020 | Unity 2019.3.14f1 | Final Pre-Launch Beta Build | [Click Me](https://drive.google.com/file/d/1v109qUxLTGKToR9GQqQOUhyZBMuxuRDx/view?usp=sharing) |
 
