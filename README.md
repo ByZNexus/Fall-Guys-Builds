@@ -59,9 +59,12 @@ You can download any builds provided here!
 | **v1.08** | 29th September 2020 | Unity 2019.3.14f1 | Beta Testing of Season 2 | [Click Me](https://mega.nz/file/6zAQEYwA#ifTIqDxCeBS_mKKs8TKPwQi_vrE2nSUS1F6kc9kBX2o)
 | **v1.08b** | 1st October 2020 | Unity 2019.3.14f1 | Season 2 Pre-Launch Beta Testing: Added SFX to some obstacles | [Click Me](https://mega.nz/file/iuh21Dyb#loqF1_jsw2BO6YtyKpRtjwh8fuJEsd87HfIib253UQk)
 | **v1.09** | 8th October 2020 | Unity 2019.3.14f1 | Season 2 Launch: Knight Fever, Wall Guys, Hoopsie Legends, Egg Siege & medieval customization | [Click Me](https://mega.nz/folder/i8YBGATB#BiAk8Br032HwyBiv7UN5gQ) |
-| **v1.10** | 19th October 2020 | Unity 2019.3.14f1 | Crown rewards update, Slime Climb stability fixes & bug fixes | [Click Me](https://mega.nz/folder/OxwGAQ5a#Mclv3cj7XkE1eFkzFw4lQw) |
-| **v1.11** | 10th November 2020 | Unity 2019.3.14f1 | Mid-Season 2 Update (FAN-TASTIC): Added Big Fans round, Lil Yeetus, Medieval Mix-Up & level variations | [Click Me](https://mega.nz/folder/L44QwDIC#9ydKgSbbvdWn8FUFGB32zQ) |
-| **v1.11b** | 30th November 2020 | Unity 2019.3.14f1 | Hex-A-Gone jump inputs fix, Fall Mountain physics & stability patch | Click Me |
+| **v1.10** | 19th October 2020 | Unity 2019.3.14f1 | Crown rewards update, Slime Climb stability fixes & bug fixes | [Click Me](https://mega.nz/folder/OxwGAQ5a#Mclv3cj7XkE1eFkzFw4lQw) or [Me](https://mega.nz/file/n05XhJRL#5edr1GE-49KSZCSQyZgixDdYpP-Yw9WS3Oa7Wgmz-nU) |
+| **v1.11** | 28th October 2020 | Unity 2019.3.14f1 | Mid-Season 2 Beta Testing | [Click Me](https://mega.nz/file/apxURLQB#HalYowku1mLpD5Ug-UgK9JQh76e21B2ToclJ4w-p2YY)
+| **v1.11b** | 3rd November 2020 | Unity 2019.3.14f1 | Pre-Launch Mid-Season 2 Beta Testing | [Click Me](https://mega.nz/file/XtowhKyT#G7yBpkplABClHwwPydgHESpdfc1Bsf6-gllcAHJ6goo)
+| **v1.12** | 10th November 2020 | Unity 2019.3.14f1 | Mid-Season 2 Update (FAN-TASTIC): Added Big Fans round, Lil Yeetus, Medieval Mix-Up & level variations | [Click Me](https://mega.nz/folder/L44QwDIC#9ydKgSbbvdWn8FUFGB32zQ) or [Me](https://mega.nz/file/PhJhzDwT#Xz31A_45l1KxRbPKurlJR2Sl8JMwfKcLi7-69TNayYA) |
+| **v1.13** | 25th November 2020 | Unity 2019.3.14f1 | Beta Testing | [Click Me](https://mega.nz/file/Ot4XXJjJ#9UB06cf2lS0noo--xTb1RhuuT9HZgG6mk_qQWmNJhMk)
+| **v1.14** | 30th November 2020 | Unity 2019.3.14f1 | Hex-A-Gone jump inputs fix, Fall Mountain physics & stability patch | Click Me |
 
 ---
 
@@ -69,10 +72,10 @@ You can download any builds provided here!
 
 | Build | Date | Engine | Notes / Content | Download links |
 | --- | --- | --- | --- | --- |
-| **v1.12 / v3.0** | 15th December 2020 | Unity 2019.3.14f1 | Season 3 Launch: Winter theme, 7 new rounds (Ski Fall, Tundra Run, Freezy Peak, Thin Ice, etc.) & Crown Ranks | [Click Me](https://mega.nz/folder/QW0lBaiD#SLPqnZUXBhy2omZhX77b3w) |
+| **v1.15 / v3.0** | 15th December 2020 | Unity 2019.3.14f1 | Season 3 Launch: Winter theme, 7 new rounds (Ski Fall, Tundra Run, Freezy Peak, Thin Ice, etc.) & Crown Ranks | [Click Me](https://mega.nz/folder/QW0lBaiD#SLPqnZUXBhy2omZhX77b3w) |
 | **v3.0.1** | 17th December 2020 | Unity 2019.3.14f1 | Post-launch Hotfix: Server stability fixes & minor level tweaks | [Click Me](https://mega.nz/folder/tblDWLSS#LfNMt1VmLDBf13z3TQfnoQ) |
 | **v3.0.2** | 11th January 2021 | Unity 2019.3.14f1 | Winter rounds balance tweaks, anti-cheat updates & ragdoll physics adjustments | [Click Me](https://mega.nz/folder/4GNmgDzb#IMdqXVoiiQozb9CHw1TaWQ) |
-| **v1.14 / v3.5** | 2nd February 2021 | Unity 2019.3.14f1 | Mid-Season Update "Stop With The Snow": Added Snowball Survival round, 50+ level variations & Fall Feed | [Click Me](https://mega.nz/file/6P40XTjS#8AwaUadirqyKkqUwyILTH66wYQE8dL-3tMEvcXskNHE) |
+| **v1.18 / v3.5** | 2nd February 2021 | Unity 2019.3.14f1 | Mid-Season Update "Stop With The Snow": Added Snowball Survival round, 50+ level variations & Fall Feed | [Click Me](https://mega.nz/file/6P40XTjS#8AwaUadirqyKkqUwyILTH66wYQE8dL-3tMEvcXskNHE) |
 
 ---
 
