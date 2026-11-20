@@ -94,6 +94,7 @@ You can download any builds provided here!
 | **v4.0** | 22nd March 2021 | Unity 2020.3.18f1 | Season 4 Launch: Futuristic theme, 7 new rounds (Skyline Stumble, Short Circuit, Power Trip, Hoverboard Heroes, etc.) & Squads Mode | [Click Me](https://mega.nz/file/GGBgTSIA#IJpziAri-QHV97q_iZRaUKl2cTpgf-ECQVtoLSloH8U) |
 | **v4.0.1** | 6th April 2021 | Unity 2020.3.18f1 | Bug fixes & Squads Mode adjustments | [Click Me](https://mega.nz/file/rH5zjD7T#tpuRcxYSXy2ugZi-2QWbNmB89jehuzrP4_d2AQ-YLso) |
 | **beta1-v4.5** | 30th April 2020 | Unity 2020.3.18f1 | First Mid-Season 4 Beta Testing | [Click Me](https://mega.nz/file/DupBmbzK#E7I1YSmvfm_irT5KhwbGo45_jPbDDp-Bll-YTh6Wn4Q)
+| **beta2-v4.5** | 5th May 2020 | Unity 2020.3.18f1 | Pre-Launch Mid-Season 4 Beta Testing (Contains BackUpThisFolder_ButDontShipItWithYourGame!) | [Click Me](https://mega.nz/file/nywlAQxJ#irtZKRTmV-XmHrpUi4aj0bVeoPfKxcqy28KYxsbL4qA)
 | **v4.5** | 13th May 2021 | Unity 2020.3.18f1 | Mid-Season Update: Added The Slimescraper, Button Bashers & Cross-play custom lobbies | [Click Me](https://mega.nz/file/CCQQHBaL#yqNWOQ0XMEU_31yrl22B0wHZI-LRys6jY1u4X4wJNfw) |
 | **v4.5.1** | 20th May 2021 | Unity 2020.3.18f1 | Post-midseason hotfix & lobby stability | [Click Me](https://mega.nz/file/XXQixAZa#MuHC11DygWtk76OUf0tPciVIW1YXwkf4cvE3BznGjpE) |
 
