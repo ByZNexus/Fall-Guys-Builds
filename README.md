@@ -87,8 +87,13 @@ You can download any builds provided here!
 | Build | Date | Engine | Notes / Content | Download links |
 | --- | --- | --- | --- | --- |
 | **beta1-v4.0** | 26th February 2021 | Unity 2020.3.18f1 | First Season 4 Beta Testing | [Click Me](https://mega.nz/file/L1h3AL7R#nAWBwxjH9y368218aDtk2z0q-FvRkhZrZZhvtU-tbUA)
+| **beta2-v4.0** | 3rd March 2021 | Unity 2020.3.18f1 | Season 4 Beta Testing | [Click Me](https://mega.nz/file/D6YiHQrD#hFxG6WffiJFmVsbdRRsH7xB9eaHIAWntH05GPe6qzOI)
+| **beta3-v4.0** | 5th March 2021 | Unity 2020.3.18f1 | Season 4 Beta Testing | [Click Me](https://mega.nz/file/7uJnzD6D#rFZ7U_mV_jB4Duil4Zk9f8CpTmUym3YvIpOhW-UUQeM)
+| **beta4-v4.0** | 9th March 2021 | Unity 2020.3.18f1 | Season 4 Beta Testing | [Click Me](https://mega.nz/file/TypHWQ4K#RGdAdTMAVdpiyT84apdDHCKjt5OOr84q9gCsSh9cwik)
+| **beta5-v4.0** | 16th March 2021 | Unity 2020.3.18f1 | Pre-Launch Season 4 Beta Testing | [Click Me](https://mega.nz/file/3rBjWDQQ#94kGkCqHTYK8bprq066xJudoqxQZi7OtmgMeQEh1auA)
 | **v4.0** | 22nd March 2021 | Unity 2020.3.18f1 | Season 4 Launch: Futuristic theme, 7 new rounds (Skyline Stumble, Short Circuit, Power Trip, Hoverboard Heroes, etc.) & Squads Mode | [Click Me](https://mega.nz/file/GGBgTSIA#IJpziAri-QHV97q_iZRaUKl2cTpgf-ECQVtoLSloH8U) |
 | **v4.0.1** | 6th April 2021 | Unity 2020.3.18f1 | Bug fixes & Squads Mode adjustments | [Click Me](https://mega.nz/file/rH5zjD7T#tpuRcxYSXy2ugZi-2QWbNmB89jehuzrP4_d2AQ-YLso) |
+| **beta1-v4.5** | 30th April 2020 | Unity 2020.3.18f1 | First Mid-Season 4 Beta Testing | [Click Me](https://mega.nz/file/DupBmbzK#E7I1YSmvfm_irT5KhwbGo45_jPbDDp-Bll-YTh6Wn4Q)
 | **v4.5** | 13th May 2021 | Unity 2020.3.18f1 | Mid-Season Update: Added The Slimescraper, Button Bashers & Cross-play custom lobbies | [Click Me](https://mega.nz/file/CCQQHBaL#yqNWOQ0XMEU_31yrl22B0wHZI-LRys6jY1u4X4wJNfw) |
 | **v4.5.1** | 20th May 2021 | Unity 2020.3.18f1 | Post-midseason hotfix & lobby stability | [Click Me](https://mega.nz/file/XXQixAZa#MuHC11DygWtk76OUf0tPciVIW1YXwkf4cvE3BznGjpE) |
 
