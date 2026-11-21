@@ -104,6 +104,9 @@ You can download any builds provided here!
 
 | Build | Date | Engine | Notes / Content | Download links |
 | --- | --- | --- | --- | --- |
+| **beta1-v5.0** | 10th June 2021 | Unity 2020.3.18f1 | First Season 5 Beta Testing | [Click Me](https://mega.nz/file/Rn4lVChA#BZR1DU0x_i2QcwmuSzjGjD1CGkgoJMnQvYU5IL48T8k)
+| **beta2-v5.0** | 17th June 2021 | Unity 2020.3.18f1 | Season 5 Beta Testing | [Click Me](https://mega.nz/file/I25wnLaK#I8jDqEuG3r0bQZWq4mFkPF_zlWBam1R7Ttom1iKKbr8)
+| **beta3-v5.0** | 24th June 2021 | Unity 2020.3.18f1 | Season 5 Beta Testing | [Click Me](https://mega.nz/file/J2wHRKxb#YIbieVK-CRu1bnqUqyc0EUW8de1ukThNc-AFmmL_YgQ)
 | **v5.0** | 20th July 2021 | Unity 2020.3.18f1 | Season 5 Launch: Jungle theme, 6 new rounds (Treetop Tumble, Stompin' Ground, Lost Temple, etc.) & Duos/Trios Modes | Click Me |
 | **v5.0.1** | 5th August 2021 | Unity 2020.3.18f1 | Jump Showdown & Lost Temple stability hotfix | [Click Me](https://mega.nz/file/buxhwRYT#DNoB6oDYl8jRe7fE4fumQnM7CbAArk-VSMoEmT1wcs4) |
 | **v5.1** | 31st August 2021 | Unity 2020.3.18f1 | Sum Fruit round added, Squads Mode fixes & stability patch | Click Me |
