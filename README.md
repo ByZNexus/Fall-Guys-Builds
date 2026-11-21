@@ -116,6 +116,10 @@ You can download any builds provided here!
 
 ### ❤️ Thank You!
 
+# Credits
+
+- [Floyzi](https://fga.floyzi.dev/builds) for the hosting of many builds (such as beta builds)
+
 A huge thank you to the community and all contributors for their support!
 
 We are progressively updating and expanding this list to include more historical builds and missing download links.
