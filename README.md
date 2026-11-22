@@ -107,9 +107,11 @@ You can download any builds provided here!
 | **beta1-v5.0** | 10th June 2021 | Unity 2020.3.18f1 | First Season 5 Beta Testing | [Click Me](https://mega.nz/file/Rn4lVChA#BZR1DU0x_i2QcwmuSzjGjD1CGkgoJMnQvYU5IL48T8k) or [Me](https://drive.google.com/file/d/1Qlh88MIdHf_fkUZPTIYBwBfxESQF9JwH/view)
 | **beta2-v5.0** | 17th June 2021 | Unity 2020.3.18f1 | Season 5 Beta Testing | [Click Me](https://mega.nz/file/I25wnLaK#I8jDqEuG3r0bQZWq4mFkPF_zlWBam1R7Ttom1iKKbr8) or [Me](https://drive.google.com/file/d/1sJNTyGstTl-ycVlBlUj3H138SCVHxemi/view)
 | **beta3-v5.0** | 24th June 2021 | Unity 2020.3.18f1 | Season 5 Beta Testing | [Click Me](https://mega.nz/file/J2wHRKxb#YIbieVK-CRu1bnqUqyc0EUW8de1ukThNc-AFmmL_YgQ) or [Me](https://drive.google.com/file/d/17inKcCl18w6l-Z7u8_T1ckh_eS3yd43r/view)
+| **beta4-v5.0** | 15th July 2021 | Unity 2020.3.18f1 | Pre-Launch Season 5 Beta Testing | [Click Me](https://mega.nz/file/07xnjDpQ#K1jniAzuPHMiFKRH3bcDPiXWlHNt0_aOXoS1JRTHMyg)
 | **v5.0** | 20th July 2021 | Unity 2020.3.18f1 | Season 5 Launch: Jungle theme, 6 new rounds (Treetop Tumble, Stompin' Ground, Lost Temple, etc.) & Duos/Trios Modes | Click Me |
 | **v5.0.1** | 5th August 2021 | Unity 2020.3.18f1 | Jump Showdown & Lost Temple stability hotfix | [Click Me](https://mega.nz/file/buxhwRYT#DNoB6oDYl8jRe7fE4fumQnM7CbAArk-VSMoEmT1wcs4) |
 | **v5.1** | 31st August 2021 | Unity 2020.3.18f1 | Sum Fruit round added, Squads Mode fixes & stability patch | Click Me |
+| **beta1-v5.2**| 22nd September 2021 | Unity 2020.3.18f1 | Pre-Release Mid-Season 5 Beta Testing | [Click Me](https://mega.nz/file/B74FyB7C#P__O-5gF0ZG1shbTLYmJrhDYyS91M4nn3AU7E4lWDqc) 
 | **v5.2** | 5th October 2021 | Unity 2020.3.18f1 | Mid-Season 5 Update: Added Fall Mountain & Lost Temple variants, custom lobby improvements | Click Me |
 | **v5.2.1** | 20th October 2021 | Unity 2020.3.18f1 | Physics tweaks & Halloween event preparation | [Click Me](https://mega.nz/file/DuIg1JwD#aSmPNzjstE3-dVkFpFsGBJ5E3SHwnyGsCS2iVUz1Yr8) |
 | **v5.3** | 30th November 2021 | Unity 2020.3.18f1 | Final Season 5 build & transition update | Click Me |
