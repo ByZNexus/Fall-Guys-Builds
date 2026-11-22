@@ -111,7 +111,9 @@ You can download any builds provided here!
 | **v5.0** | 20th July 2021 | Unity 2020.3.18f1 | Season 5 Launch: Jungle theme, 6 new rounds (Treetop Tumble, Stompin' Ground, Lost Temple, etc.) & Duos/Trios Modes | Click Me |
 | **v5.0.1** | 5th August 2021 | Unity 2020.3.18f1 | Jump Showdown & Lost Temple stability hotfix | [Click Me](https://mega.nz/file/buxhwRYT#DNoB6oDYl8jRe7fE4fumQnM7CbAArk-VSMoEmT1wcs4) |
 | **v5.1** | 31st August 2021 | Unity 2020.3.18f1 | Sum Fruit round added, Squads Mode fixes & stability patch | Click Me |
-| **beta1-v5.2**| 22nd September 2021 | Unity 2020.3.18f1 | Pre-Release Mid-Season 5 Beta Testing | [Click Me](https://mega.nz/file/B74FyB7C#P__O-5gF0ZG1shbTLYmJrhDYyS91M4nn3AU7E4lWDqc) 
+| **beta1-v5.2** | 19th August 2021 | Unity 2020.3.18f1 | First Mid-Season 5 Beta Testing | [Click Me](https://mega.nz/file/qvRVXBoK#EJSw1XSUQ9U-I92E_vCpfYn9tWHwscqwYwYcV0Z13f4)
+| **beta2-v5.2** | 14th September 2021 | Unity 2020.3.18f1 | Mid-Season 5 Beta Testing | [Click Me](https://mega.nz/file/rv40mC6R#QygKU9ZBWWb1xisOdTNnjqI6-UR0gbsQBTqtCR2jzT4)
+| **beta3-v5.2**| 22nd September 2021 | Unity 2020.3.18f1 | Pre-Release Mid-Season 5 Beta Testing | [Click Me](https://mega.nz/file/B74FyB7C#P__O-5gF0ZG1shbTLYmJrhDYyS91M4nn3AU7E4lWDqc) 
 | **v5.2** | 5th October 2021 | Unity 2020.3.18f1 | Mid-Season 5 Update: Added Fall Mountain & Lost Temple variants, custom lobby improvements | Click Me |
 | **v5.2.1** | 20th October 2021 | Unity 2020.3.18f1 | Physics tweaks & Halloween event preparation | [Click Me](https://mega.nz/file/DuIg1JwD#aSmPNzjstE3-dVkFpFsGBJ5E3SHwnyGsCS2iVUz1Yr8) |
 | **v5.3** | 30th November 2021 | Unity 2020.3.18f1 | Final Season 5 build & transition update | Click Me |
